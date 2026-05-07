@@ -16,7 +16,7 @@ compiled binaries (e.g., `.jar` files), source code, assets, textures, models,
 sounds, configuration files, documentation, and any other materials made
 available by the Licensor under this License.
 
-**"Licensor"** means ThePlasticPotato, the copyright holder of the
+**"Licensor"** means whimsicalwren, the copyright holder of the
 Software.
 
 **"You"** (or "Your") means the individual or legal entity exercising rights
